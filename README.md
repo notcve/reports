@@ -20,3 +20,4 @@ rounded creatively, or written from memory. The same data is searchable at
 | 6 | Aug 13–20, 2026 | [weekly/2026-08-20.md](weekly/2026-08-20.md) |
 | 7 | Aug 20–27, 2026 | [weekly/2026-08-27.md](weekly/2026-08-27.md) |
 | M 2026-08 | Aug 1 – Sep 1, 2026 | [monthly/2026-08.md](monthly/2026-08.md) |
+| 8 | Aug 27 – Sep 3, 2026 | [weekly/2026-09-03.md](weekly/2026-09-03.md) |
