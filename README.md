@@ -27,3 +27,4 @@ rounded creatively, or written from memory. The same data is searchable at
 | 12 | Sep 24 – Oct 1, 2026 | [weekly/2026-10-01.md](weekly/2026-10-01.md) |
 | 13 | Oct 1–8, 2026 | [weekly/2026-10-08.md](weekly/2026-10-08.md) |
 | 14 | Oct 8–15, 2026 | [weekly/2026-10-15.md](weekly/2026-10-15.md) |
+| 15 | Oct 15–22, 2026 | [weekly/2026-10-22.md](weekly/2026-10-22.md) |
