@@ -32,3 +32,4 @@ rounded creatively, or written from memory. The same data is searchable at
 | M 2026-10 | Oct 1 – Nov 1, 2026 | [monthly/2026-10.md](monthly/2026-10.md) |
 | 17 | Oct 29 – Nov 5, 2026 | [weekly/2026-11-05.md](weekly/2026-11-05.md) |
 | 18 | Nov 5–12, 2026 | [weekly/2026-11-12.md](weekly/2026-11-12.md) |
+| 19 | Nov 12–19, 2026 | [weekly/2026-11-19.md](weekly/2026-11-19.md) |
